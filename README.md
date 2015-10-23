@@ -6,3 +6,7 @@ The code uses to slightly different algorithms for Player start and Computer sta
 The Graphical Interface is completely independent of the computing process and it is used for representation purposes only.
 The program asks the user to enter the co-ordinates of the position where he wants to place the 'X'.
 And The next turn the computer places it's 'O'. The program is mostly bug free. If any bugs arise let me know.
+
+Download Python 2.7 here :https://www.python.org/downloads/release/python-2710/
+The turtle module is included with the 2.7 version.
+Follow the instructions on the website to run the program in command prompt
